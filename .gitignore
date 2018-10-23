@@ -25,3 +25,9 @@ identicon-*.tar
 ### Intellij ###
 *.iml
 /.idea
+
+# Ignore generated .png files
+*.png
+
+# Ignore mix lock files
+*.lock
